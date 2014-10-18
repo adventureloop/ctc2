@@ -1,4 +1,1 @@
-ctc2
-====
-
-Code the City 2 repo
+Code the city 2
